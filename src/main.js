@@ -179,4 +179,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
         selectedItem.classList.add('bg-blue-500');
     }
-}); 
+});
